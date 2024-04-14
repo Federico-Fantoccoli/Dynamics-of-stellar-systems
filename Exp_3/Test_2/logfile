@@ -1,0 +1,1613 @@
+
+Hierarchical N-body code (theta scan)
+
+   nbody     dtime       eps     theta   usequad     dtout     tstop
+   10000   0.20000    0.0150      1.00     false   0.20000   40.0000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0       9   2.948     751    951994   3362005   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       0.000 0.06010 0.00000 0.06010 0.00000 0.00000 0.00000   0.001
+
+	data output to file treecode_fileout.txt at time 0.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0       9   2.948     751    952105   3362163   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       0.200 0.06010 0.00000 0.06010 0.00003 0.00000 0.00000   0.002
+
+	data output to file treecode_fileout.txt at time 0.200000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0       9   2.946     751    952068   3361950   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       0.400 0.06010 0.00001 0.06011 0.00010 0.00000 0.00000   0.004
+
+	data output to file treecode_fileout.txt at time 0.400000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      10   2.943     751    955773   3359171   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       0.600 0.06010 0.00001 0.06011 0.00022 0.00000 0.00001   0.005
+
+	data output to file treecode_fileout.txt at time 0.600000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.926     751    953165   3360987   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       0.800 0.06010 0.00002 0.06012 0.00041 0.00000 0.00001   0.006
+
+	data output to file treecode_fileout.txt at time 0.800000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      11   2.925     751    951522   3363947   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       1.000 0.06010 0.00004 0.06014 0.00064 0.00000 0.00001   0.008
+
+	data output to file treecode_fileout.txt at time 1.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.911     751    950827   3364208   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       1.200 0.06010 0.00005 0.06015 0.00090 0.00000 0.00001   0.009
+
+	data output to file treecode_fileout.txt at time 1.200000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.903     751    949850   3366540   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       1.400 0.06010 0.00007 0.06017 0.00122 0.00000 0.00001   0.010
+
+	data output to file treecode_fileout.txt at time 1.400000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.904     751    947486   3367479   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       1.600 0.06010 0.00009 0.06019 0.00156 0.00000 0.00001   0.012
+
+	data output to file treecode_fileout.txt at time 1.600000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      16   2.899     751    949200   3367134   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       1.800 0.06010 0.00012 0.06021 0.00193 0.00000 0.00002   0.013
+
+	data output to file treecode_fileout.txt at time 1.800000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.905     751    942161   3368648   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       2.000 0.06009 0.00014 0.06024 0.00236 0.00000 0.00002   0.014
+
+	data output to file treecode_fileout.txt at time 2.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.892     750    931959   3372750   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       2.200 0.06009 0.00017 0.06027 0.00284 0.00000 0.00002   0.016
+
+	data output to file treecode_fileout.txt at time 2.200000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.878     751    936207   3368288   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       2.400 0.06010 0.00020 0.06030 0.00334 0.00000 0.00002   0.017
+
+	data output to file treecode_fileout.txt at time 2.400000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.878     752    947496   3359367   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       2.600 0.06009 0.00024 0.06033 0.00391 0.00000 0.00002   0.018
+
+	data output to file treecode_fileout.txt at time 2.600000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.865     752    943699   3362368   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       2.800 0.06009 0.00027 0.06037 0.00454 0.00000 0.00002   0.020
+
+	data output to file treecode_fileout.txt at time 2.800000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.869     754    943814   3361926   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       3.000 0.06009 0.00031 0.06040 0.00520 0.00000 0.00003   0.021
+
+	data output to file treecode_fileout.txt at time 3.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.851     754    944641   3362958   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       3.200 0.06009 0.00036 0.06045 0.00591 0.00000 0.00003   0.022
+
+	data output to file treecode_fileout.txt at time 3.200001
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.843     753    940509   3364090   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       3.400 0.06009 0.00040 0.06049 0.00665 0.00000 0.00003   0.024
+
+	data output to file treecode_fileout.txt at time 3.400001
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.842     755    940053   3365408   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       3.600 0.06009 0.00045 0.06054 0.00740 0.00000 0.00003   0.025
+
+	data output to file treecode_fileout.txt at time 3.600001
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.826     756    939748   3366200   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       3.800 0.06009 0.00050 0.06058 0.00818 0.00000 0.00003   0.027
+
+	data output to file treecode_fileout.txt at time 3.800001
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.823     757    939741   3370048   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       4.000 0.06009 0.00055 0.06063 0.00903 0.00000 0.00004   0.028
+
+	data output to file treecode_fileout.txt at time 4.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.815     755    939590   3368236   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       4.200 0.06008 0.00060 0.06069 0.00994 0.00000 0.00004   0.029
+
+	data output to file treecode_fileout.txt at time 4.200000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.804     755    935997   3368627   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       4.400 0.06008 0.00066 0.06074 0.01089 0.00001 0.00004   0.031
+
+	data output to file treecode_fileout.txt at time 4.400000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.789     754    929353   3372917   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       4.600 0.06008 0.00072 0.06080 0.01187 0.00001 0.00004   0.032
+
+	data output to file treecode_fileout.txt at time 4.600000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.798     752    928695   3376063   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       4.800 0.06008 0.00079 0.06087 0.01290 0.00001 0.00004   0.033
+
+	data output to file treecode_fileout.txt at time 4.800000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.780     759    933023   3374712   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       5.000 0.06008 0.00085 0.06093 0.01400 0.00001 0.00004   0.035
+
+	data output to file treecode_fileout.txt at time 5.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.780     761    925775   3379482   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       5.200 0.06008 0.00092 0.06100 0.01511 0.00001 0.00005   0.036
+
+	data output to file treecode_fileout.txt at time 5.199999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      16   2.764     757    925611   3384263   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       5.400 0.06008 0.00099 0.06107 0.01629 0.00001 0.00005   0.037
+
+	data output to file treecode_fileout.txt at time 5.399999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.759     765    935203   3379658   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       5.600 0.06007 0.00107 0.06114 0.01749 0.00001 0.00005   0.039
+
+	data output to file treecode_fileout.txt at time 5.599999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      16   2.750     766    936599   3385389   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       5.800 0.06007 0.00115 0.06122 0.01873 0.00001 0.00005   0.040
+
+	data output to file treecode_fileout.txt at time 5.799999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.750     766    935166   3389580   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       6.000 0.06007 0.00123 0.06130 0.02001 0.00001 0.00005   0.041
+
+	data output to file treecode_fileout.txt at time 5.999999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.742     766    929900   3390622   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       6.200 0.06007 0.00131 0.06138 0.02134 0.00001 0.00005   0.043
+
+	data output to file treecode_fileout.txt at time 6.199998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.747     774    945215   3382385   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       6.400 0.06006 0.00140 0.06146 0.02273 0.00001 0.00006   0.044
+
+	data output to file treecode_fileout.txt at time 6.399998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      16   2.744     772    951831   3381647   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       6.600 0.06006 0.00149 0.06155 0.02417 0.00001 0.00006   0.045
+
+	data output to file treecode_fileout.txt at time 6.599998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.728     771    953110   3388813   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       6.800 0.06006 0.00158 0.06164 0.02566 0.00001 0.00006   0.047
+
+	data output to file treecode_fileout.txt at time 6.799998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.728     770    970041   3353542   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       7.000 0.06006 0.00168 0.06173 0.02714 0.00001 0.00006   0.048
+
+	data output to file treecode_fileout.txt at time 6.999998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.726     769    975196   3356303   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       7.200 0.06005 0.00177 0.06183 0.02867 0.00001 0.00006   0.049
+
+	data output to file treecode_fileout.txt at time 7.199997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.711     767    979387   3353515   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       7.400 0.06005 0.00188 0.06193 0.03031 0.00001 0.00006   0.051
+
+	data output to file treecode_fileout.txt at time 7.399997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.689     766    982743   3350964   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       7.600 0.06005 0.00198 0.06203 0.03197 0.00001 0.00007   0.052
+
+	data output to file treecode_fileout.txt at time 7.599997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.686     765    987103   3346508   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       7.800 0.06005 0.00209 0.06214 0.03362 0.00001 0.00007   0.053
+
+	data output to file treecode_fileout.txt at time 7.799997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.676     765    991104   3349567   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       8.000 0.06004 0.00220 0.06224 0.03534 0.00001 0.00007   0.055
+
+	data output to file treecode_fileout.txt at time 7.999997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.673     763    995112   3340594   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       8.200 0.06004 0.00232 0.06236 0.03715 0.00001 0.00007   0.056
+
+	data output to file treecode_fileout.txt at time 8.199997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.671     759   1007306   3332187   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       8.400 0.06004 0.00244 0.06247 0.03898 0.00001 0.00007   0.058
+
+	data output to file treecode_fileout.txt at time 8.399997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.667     766   1002460   3341829   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       8.600 0.06004 0.00255 0.06259 0.04077 0.00001 0.00007   0.059
+
+	data output to file treecode_fileout.txt at time 8.599997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      16   2.650     760    977032   3352220   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       8.800 0.06003 0.00267 0.06271 0.04263 0.00001 0.00008   0.060
+
+	data output to file treecode_fileout.txt at time 8.799996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.641     761    986550   3347442   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       9.000 0.06003 0.00280 0.06283 0.04459 0.00001 0.00008   0.061
+
+	data output to file treecode_fileout.txt at time 8.999996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.644     762    985002   3345294   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       9.200 0.06003 0.00293 0.06296 0.04659 0.00001 0.00008   0.063
+
+	data output to file treecode_fileout.txt at time 9.199996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.621     764    974345   3358502   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       9.400 0.06002 0.00307 0.06309 0.04864 0.00001 0.00008   0.064
+
+	data output to file treecode_fileout.txt at time 9.399996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.634     764   1000304   3344594   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       9.600 0.06002 0.00321 0.06323 0.05074 0.00001 0.00008   0.066
+
+	data output to file treecode_fileout.txt at time 9.599996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.625     757    990259   3337330   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+       9.800 0.06002 0.00335 0.06337 0.05285 0.00001 0.00008   0.067
+
+	data output to file treecode_fileout.txt at time 9.799995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.613     755   1011587   3308641   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      10.000 0.06001 0.00349 0.06351 0.05499 0.00001 0.00009   0.068
+
+	data output to file treecode_fileout.txt at time 9.999995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.606     754   1019511   3288582   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      10.200 0.06001 0.00364 0.06365 0.05721 0.00001 0.00009   0.069
+
+	data output to file treecode_fileout.txt at time 10.199995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.605     751    986477   3298003   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      10.400 0.06001 0.00379 0.06380 0.05947 0.00001 0.00009   0.071
+
+	data output to file treecode_fileout.txt at time 10.399995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.602     756    993047   3281033   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      10.600 0.06001 0.00395 0.06396 0.06177 0.00001 0.00009   0.072
+
+	data output to file treecode_fileout.txt at time 10.599995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.591     750   1019868   3254050   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      10.800 0.06000 0.00411 0.06412 0.06414 0.00001 0.00009   0.073
+
+	data output to file treecode_fileout.txt at time 10.799994
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.584     751   1008775   3249653   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      11.000 0.06000 0.00428 0.06428 0.06656 0.00001 0.00009   0.075
+
+	data output to file treecode_fileout.txt at time 10.999994
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.581     750   1005477   3238151   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      11.200 0.06000 0.00445 0.06445 0.06905 0.00001 0.00009   0.076
+
+	data output to file treecode_fileout.txt at time 11.199994
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.575     753   1006811   3219014   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      11.400 0.05999 0.00462 0.06462 0.07155 0.00001 0.00009   0.077
+
+	data output to file treecode_fileout.txt at time 11.399994
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.570     751   1020825   3193249   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      11.600 0.05999 0.00480 0.06479 0.07407 0.00001 0.00010   0.079
+
+	data output to file treecode_fileout.txt at time 11.599994
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.575     749   1019630   3171117   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      11.800 0.05998 0.00498 0.06496 0.07661 0.00001 0.00010   0.080
+
+	data output to file treecode_fileout.txt at time 11.799994
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.578     739   1000778   3172205   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      12.000 0.05998 0.00516 0.06514 0.07919 0.00001 0.00010   0.081
+
+	data output to file treecode_fileout.txt at time 11.999993
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.588     733    996638   3161456   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      12.200 0.05998 0.00535 0.06533 0.08184 0.00001 0.00010   0.083
+
+	data output to file treecode_fileout.txt at time 12.199993
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.585     720    987304   3143478   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      12.400 0.05997 0.00554 0.06551 0.08453 0.00001 0.00010   0.084
+
+	data output to file treecode_fileout.txt at time 12.399993
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.577     713    974345   3141124   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      12.600 0.05997 0.00573 0.06570 0.08725 0.00001 0.00010   0.085
+
+	data output to file treecode_fileout.txt at time 12.599993
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.582     711    961758   3132570   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      12.800 0.05997 0.00594 0.06590 0.09006 0.00001 0.00010   0.087
+
+	data output to file treecode_fileout.txt at time 12.799993
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.577     710    947668   3124923   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      13.000 0.05997 0.00614 0.06611 0.09291 0.00001 0.00011   0.088
+
+	data output to file treecode_fileout.txt at time 12.999992
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.593     703    930591   3108897   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      13.200 0.05996 0.00635 0.06631 0.09579 0.00001 0.00011   0.089
+
+	data output to file treecode_fileout.txt at time 13.199992
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.576     699    909953   3112764   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      13.400 0.05996 0.00657 0.06653 0.09873 0.00001 0.00011   0.091
+
+	data output to file treecode_fileout.txt at time 13.399992
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.558     697    889905   3112801   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      13.600 0.05996 0.00679 0.06675 0.10178 0.00001 0.00011   0.092
+
+	data output to file treecode_fileout.txt at time 13.599992
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.549     695    873143   3110137   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      13.800 0.05995 0.00703 0.06698 0.10489 0.00001 0.00011   0.093
+
+	data output to file treecode_fileout.txt at time 13.799992
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.548     694    852939   3118885   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      14.000 0.05995 0.00726 0.06721 0.10801 0.00001 0.00012   0.095
+
+	data output to file treecode_fileout.txt at time 13.999991
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.539     690    846651   3127545   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      14.200 0.05995 0.00750 0.06745 0.11119 0.00001 0.00012   0.096
+
+	data output to file treecode_fileout.txt at time 14.199991
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.527     694    852146   3123418   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      14.400 0.05994 0.00774 0.06769 0.11440 0.00001 0.00012   0.097
+
+	data output to file treecode_fileout.txt at time 14.399991
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.542     691    837860   3125255   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      14.600 0.05994 0.00799 0.06793 0.11762 0.00001 0.00012   0.099
+
+	data output to file treecode_fileout.txt at time 14.599991
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.533     697    844173   3125273   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      14.800 0.05993 0.00824 0.06817 0.12089 0.00001 0.00012   0.100
+
+	data output to file treecode_fileout.txt at time 14.799991
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.521     696    850745   3123318   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      15.000 0.05993 0.00850 0.06843 0.12422 0.00001 0.00013   0.101
+
+	data output to file treecode_fileout.txt at time 14.999990
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.520     693    863719   3117518   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      15.200 0.05993 0.00877 0.06870 0.12764 0.00001 0.00013   0.102
+
+	data output to file treecode_fileout.txt at time 15.199990
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.524     696    884947   3103591   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      15.400 0.05992 0.00904 0.06897 0.13114 0.00001 0.00013   0.104
+
+	data output to file treecode_fileout.txt at time 15.399990
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.532     700    886226   3098715   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      15.600 0.05992 0.00932 0.06924 0.13464 0.00001 0.00013   0.105
+
+	data output to file treecode_fileout.txt at time 15.599990
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.544     698    888565   3096748   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      15.800 0.05992 0.00961 0.06952 0.13816 0.00001 0.00013   0.106
+
+	data output to file treecode_fileout.txt at time 15.799990
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.540     695    872546   3097312   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      16.000 0.05991 0.00990 0.06981 0.14175 0.00001 0.00014   0.107
+
+	data output to file treecode_fileout.txt at time 15.999990
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.540     704    871867   3106436   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      16.200 0.05991 0.01019 0.07010 0.14539 0.00001 0.00014   0.109
+
+	data output to file treecode_fileout.txt at time 16.199989
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.535     709    875513   3107646   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      16.400 0.05991 0.01049 0.07040 0.14904 0.00001 0.00014   0.111
+
+	data output to file treecode_fileout.txt at time 16.399990
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.537     706    889484   3101511   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      16.600 0.05991 0.01080 0.07071 0.15278 0.00001 0.00014   0.112
+
+	data output to file treecode_fileout.txt at time 16.599991
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.522     701    872630   3115877   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      16.800 0.05990 0.01112 0.07103 0.15662 0.00001 0.00014   0.113
+
+	data output to file treecode_fileout.txt at time 16.799992
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.519     708    866604   3136512   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      17.000 0.05990 0.01145 0.07135 0.16049 0.00001 0.00015   0.114
+
+	data output to file treecode_fileout.txt at time 16.999992
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.532     705    863936   3143754   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      17.200 0.05989 0.01178 0.07168 0.16438 0.00001 0.00015   0.116
+
+	data output to file treecode_fileout.txt at time 17.199993
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.532     706    875650   3136813   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      17.400 0.05989 0.01212 0.07202 0.16836 0.00001 0.00015   0.117
+
+	data output to file treecode_fileout.txt at time 17.399994
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.534     713    868120   3154049   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      17.600 0.05989 0.01248 0.07237 0.17240 0.00001 0.00015   0.118
+
+	data output to file treecode_fileout.txt at time 17.599995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.518     712    886354   3146182   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      17.800 0.05989 0.01284 0.07272 0.17651 0.00001 0.00015   0.119
+
+	data output to file treecode_fileout.txt at time 17.799995
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.511     727    891157   3148264   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      18.000 0.05988 0.01321 0.07310 0.18073 0.00001 0.00015   0.121
+
+	data output to file treecode_fileout.txt at time 17.999996
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.508     733    917562   3138888   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      18.200 0.05988 0.01359 0.07347 0.18499 0.00001 0.00015   0.122
+
+	data output to file treecode_fileout.txt at time 18.199997
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.495     715    928740   3096752   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      18.400 0.05988 0.01398 0.07386 0.18925 0.00002 0.00015   0.123
+
+	data output to file treecode_fileout.txt at time 18.399998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.522     706    941482   3059006   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      18.600 0.05988 0.01437 0.07425 0.19355 0.00002 0.00015   0.125
+
+	data output to file treecode_fileout.txt at time 18.599998
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.509     703    922845   3049522   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      18.800 0.05988 0.01477 0.07465 0.19791 0.00002 0.00015   0.126
+
+	data output to file treecode_fileout.txt at time 18.799999
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.498     702    914227   3070368   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      19.000 0.05987 0.01519 0.07506 0.20237 0.00002 0.00015   0.127
+
+	data output to file treecode_fileout.txt at time 19.000000
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.498     701    920961   3045768   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      19.200 0.05987 0.01562 0.07549 0.20690 0.00002 0.00015   0.129
+
+	data output to file treecode_fileout.txt at time 19.200001
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.503     700    895837   3056657   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      19.400 0.05987 0.01606 0.07593 0.21149 0.00002 0.00015   0.130
+
+	data output to file treecode_fileout.txt at time 19.400002
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.515     703    914188   3030936   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      19.600 0.05987 0.01651 0.07638 0.21615 0.00002 0.00015   0.131
+
+	data output to file treecode_fileout.txt at time 19.600002
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.507     698    936717   3009900   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      19.800 0.05987 0.01697 0.07684 0.22087 0.00002 0.00015   0.132
+
+	data output to file treecode_fileout.txt at time 19.800003
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.506     692    923858   3016144   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      20.000 0.05987 0.01744 0.07731 0.22564 0.00002 0.00014   0.134
+
+	data output to file treecode_fileout.txt at time 20.000004
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.529     685    930057   3012752   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      20.200 0.05986 0.01793 0.07779 0.23047 0.00002 0.00014   0.135
+
+	data output to file treecode_fileout.txt at time 20.200005
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.514     685    920299   3030791   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      20.400 0.05986 0.01842 0.07828 0.23534 0.00002 0.00014   0.136
+
+	data output to file treecode_fileout.txt at time 20.400005
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.526     690    924626   2999021   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      20.600 0.05986 0.01893 0.07879 0.24029 0.00002 0.00014   0.138
+
+	data output to file treecode_fileout.txt at time 20.600006
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      11   2.526     696    923884   3006825   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      20.800 0.05986 0.01946 0.07931 0.24533 0.00002 0.00014   0.139
+
+	data output to file treecode_fileout.txt at time 20.800007
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.519     695    907668   2982110   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      21.000 0.05985 0.02000 0.07985 0.25042 0.00002 0.00014   0.140
+
+	data output to file treecode_fileout.txt at time 21.000008
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.503     681    922704   2967881   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      21.200 0.05985 0.02055 0.08040 0.25557 0.00002 0.00014   0.141
+
+	data output to file treecode_fileout.txt at time 21.200008
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.502     687    890537   2974379   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      21.400 0.05985 0.02112 0.08097 0.26083 0.00002 0.00014   0.142
+
+	data output to file treecode_fileout.txt at time 21.400009
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.512     676    842330   2983244   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      21.600 0.05984 0.02170 0.08155 0.26616 0.00002 0.00014   0.144
+
+	data output to file treecode_fileout.txt at time 21.600010
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.502     680    851336   2982749   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      21.800 0.05984 0.02231 0.08215 0.27155 0.00002 0.00014   0.145
+
+	data output to file treecode_fileout.txt at time 21.800011
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.513     679    841624   2977412   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      22.000 0.05984 0.02293 0.08276 0.27699 0.00002 0.00014   0.147
+
+	data output to file treecode_fileout.txt at time 22.000011
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.506     682    834809   2989661   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      22.200 0.05984 0.02356 0.08340 0.28248 0.00002 0.00014   0.148
+
+	data output to file treecode_fileout.txt at time 22.200012
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.501     682    824530   3006735   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      22.400 0.05984 0.02421 0.08405 0.28806 0.00002 0.00014   0.149
+
+	data output to file treecode_fileout.txt at time 22.400013
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.507     686    847055   3012817   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      22.600 0.05983 0.02489 0.08472 0.29374 0.00002 0.00014   0.150
+
+	data output to file treecode_fileout.txt at time 22.600014
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.514     693    849231   3023249   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      22.800 0.05983 0.02558 0.08541 0.29950 0.00002 0.00014   0.152
+
+	data output to file treecode_fileout.txt at time 22.800014
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.527     693    866413   3014252   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      23.000 0.05983 0.02630 0.08612 0.30533 0.00003 0.00014   0.153
+
+	data output to file treecode_fileout.txt at time 23.000015
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.515     689    828391   3020423   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      23.200 0.05982 0.02703 0.08685 0.31124 0.00003 0.00013   0.154
+
+	data output to file treecode_fileout.txt at time 23.200016
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.516     696    843248   3029519   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      23.400 0.05981 0.02779 0.08761 0.31723 0.00003 0.00013   0.156
+
+	data output to file treecode_fileout.txt at time 23.400017
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.530     696    861947   3039848   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      23.600 0.05981 0.02858 0.08838 0.32332 0.00003 0.00014   0.157
+
+	data output to file treecode_fileout.txt at time 23.600018
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.523     714    858423   3067005   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      23.800 0.05980 0.02939 0.08918 0.32950 0.00003 0.00014   0.158
+
+	data output to file treecode_fileout.txt at time 23.800018
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.525     725    877996   3083845   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      24.000 0.05979 0.03022 0.09001 0.33576 0.00003 0.00014   0.159
+
+	data output to file treecode_fileout.txt at time 24.000019
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.515     703    875578   3090419   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      24.200 0.05977 0.03109 0.09086 0.34213 0.00003 0.00014   0.161
+
+	data output to file treecode_fileout.txt at time 24.200020
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.528     711    904671   3077647   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      24.400 0.05977 0.03198 0.09175 0.34858 0.00003 0.00014   0.162
+
+	data output to file treecode_fileout.txt at time 24.400021
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.539     707    907503   3073965   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      24.600 0.05975 0.03291 0.09266 0.35514 0.00003 0.00014   0.163
+
+	data output to file treecode_fileout.txt at time 24.600021
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.573     723    976955   3050522   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      24.800 0.05974 0.03387 0.09360 0.36180 0.00003 0.00014   0.164
+
+	data output to file treecode_fileout.txt at time 24.800022
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.584     729    993141   3064655   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      25.000 0.05973 0.03486 0.09458 0.36853 0.00003 0.00015   0.166
+
+	data output to file treecode_fileout.txt at time 25.000023
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.579     737    990358   3076591   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      25.200 0.05972 0.03588 0.09560 0.37535 0.00003 0.00015   0.167
+
+	data output to file treecode_fileout.txt at time 25.200024
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.602     749   1004663   3090534   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      25.400 0.05971 0.03695 0.09665 0.38226 0.00004 0.00015   0.168
+
+	data output to file treecode_fileout.txt at time 25.400024
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.590     763   1004787   3100224   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      25.600 0.05970 0.03805 0.09775 0.38927 0.00004 0.00015   0.170
+
+	data output to file treecode_fileout.txt at time 25.600025
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.594     761   1047374   3061964   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      25.800 0.05968 0.03919 0.09888 0.39639 0.00004 0.00015   0.171
+
+	data output to file treecode_fileout.txt at time 25.800026
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.593     762   1066577   3039055   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      26.000 0.05968 0.04038 0.10006 0.40360 0.00004 0.00016   0.172
+
+	data output to file treecode_fileout.txt at time 26.000027
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.595     764   1041862   3045177   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      26.200 0.05966 0.04162 0.10129 0.41092 0.00004 0.00016   0.173
+
+	data output to file treecode_fileout.txt at time 26.200027
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      11   2.600     752   1054984   3018362   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      26.400 0.05966 0.04291 0.10257 0.41835 0.00004 0.00016   0.175
+
+	data output to file treecode_fileout.txt at time 26.400028
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.625     737   1042851   3024620   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      26.600 0.05965 0.04425 0.10390 0.42589 0.00004 0.00017   0.176
+
+	data output to file treecode_fileout.txt at time 26.600029
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      11   2.628     737   1023190   3046037   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      26.800 0.05964 0.04564 0.10528 0.43352 0.00004 0.00017   0.177
+
+	data output to file treecode_fileout.txt at time 26.800030
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      11   2.634     750   1009662   3064920   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      27.000 0.05963 0.04710 0.10673 0.44126 0.00004 0.00017   0.179
+
+	data output to file treecode_fileout.txt at time 27.000031
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.625     747    982708   3104711   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      27.200 0.05963 0.04862 0.10825 0.44915 0.00004 0.00018   0.180
+
+	data output to file treecode_fileout.txt at time 27.200031
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.616     749    978919   3114542   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      27.400 0.05962 0.05022 0.10984 0.45718 0.00004 0.00018   0.181
+
+	data output to file treecode_fileout.txt at time 27.400032
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.622     769   1003960   3132408   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      27.600 0.05961 0.05188 0.11150 0.46534 0.00004 0.00019   0.182
+
+	data output to file treecode_fileout.txt at time 27.600033
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.652     765   1018842   3152488   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      27.800 0.05961 0.05363 0.11324 0.47360 0.00004 0.00019   0.184
+
+	data output to file treecode_fileout.txt at time 27.800034
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.644     776   1037503   3140247   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      28.000 0.05960 0.05546 0.11506 0.48200 0.00004 0.00020   0.185
+
+	data output to file treecode_fileout.txt at time 28.000034
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.649     793   1056282   3136722   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      28.200 0.05959 0.05738 0.11697 0.49058 0.00004 0.00021   0.186
+
+	data output to file treecode_fileout.txt at time 28.200035
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.666     800   1066246   3136069   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      28.400 0.05958 0.05941 0.11899 0.49928 0.00004 0.00021   0.188
+
+	data output to file treecode_fileout.txt at time 28.400036
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.675     827   1063939   3150748   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      28.600 0.05957 0.06155 0.12112 0.50816 0.00004 0.00022   0.189
+
+	data output to file treecode_fileout.txt at time 28.600037
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.665     821   1052857   3173617   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      28.800 0.05956 0.06380 0.12336 0.51719 0.00004 0.00022   0.190
+
+	data output to file treecode_fileout.txt at time 28.800037
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.692     850   1093723   3173314   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      29.000 0.05955 0.06618 0.12573 0.52636 0.00004 0.00023   0.192
+
+	data output to file treecode_fileout.txt at time 29.000038
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      11   2.695     852   1131097   3165440   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      29.200 0.05954 0.06870 0.12824 0.53570 0.00004 0.00024   0.193
+
+	data output to file treecode_fileout.txt at time 29.200039
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   2.682     830   1111192   3152434   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      29.400 0.05953 0.07136 0.13088 0.54520 0.00004 0.00025   0.194
+
+	data output to file treecode_fileout.txt at time 29.400040
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.702     832   1181409   3109162   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      29.600 0.05951 0.07418 0.13369 0.55487 0.00005 0.00025   0.196
+
+	data output to file treecode_fileout.txt at time 29.600040
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      15   2.698     840   1189961   3113091   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      29.800 0.05950 0.07718 0.13668 0.56469 0.00005 0.00026   0.197
+
+	data output to file treecode_fileout.txt at time 29.800041
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.734     867   1270673   3035355   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      30.000 0.05948 0.08038 0.13986 0.57472 0.00005 0.00027   0.198
+
+	data output to file treecode_fileout.txt at time 30.000042
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.733     867   1256458   2995572   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      30.200 0.05947 0.08380 0.14327 0.58490 0.00005 0.00027   0.200
+
+	data output to file treecode_fileout.txt at time 30.200043
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.732     838   1197692   2984834   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      30.400 0.05946 0.08746 0.14692 0.59529 0.00005 0.00028   0.201
+
+	data output to file treecode_fileout.txt at time 30.400043
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.737     840   1204182   2986343   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      30.600 0.05944 0.09140 0.15085 0.60595 0.00006 0.00029   0.202
+
+	data output to file treecode_fileout.txt at time 30.600044
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.749     840   1185243   2985335   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      30.800 0.05943 0.09567 0.15510 0.61683 0.00006 0.00030   0.203
+
+	data output to file treecode_fileout.txt at time 30.800045
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.760     850   1216184   2975156   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      31.000 0.05942 0.10029 0.15970 0.62796 0.00006 0.00030   0.205
+
+	data output to file treecode_fileout.txt at time 31.000046
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      11   2.789     853   1259468   2971321   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      31.200 0.05939 0.10528 0.16468 0.63933 0.00007 0.00030   0.206
+
+	data output to file treecode_fileout.txt at time 31.200047
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.780     877   1315488   2959562   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      31.400 0.05938 0.11073 0.17011 0.65095 0.00007 0.00031   0.207
+
+	data output to file treecode_fileout.txt at time 31.400047
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.805     867   1286850   2977893   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      31.600 0.05935 0.11670 0.17605 0.66288 0.00008 0.00031   0.209
+
+	data output to file treecode_fileout.txt at time 31.600048
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.821     884   1345740   3004068   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      31.800 0.05932 0.12329 0.18261 0.67514 0.00009 0.00032   0.210
+
+	data output to file treecode_fileout.txt at time 31.800049
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.823     928   1445874   3089052   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      32.000 0.05928 0.13059 0.18986 0.68779 0.00010 0.00032   0.211
+
+	data output to file treecode_fileout.txt at time 32.000050
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      11   2.815     949   1467253   3221455   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      32.200 0.05923 0.13874 0.19797 0.70080 0.00011 0.00032   0.212
+
+	data output to file treecode_fileout.txt at time 32.200050
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.847     954   1480559   3299002   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      32.400 0.05917 0.14791 0.20708 0.71426 0.00011 0.00033   0.214
+
+	data output to file treecode_fileout.txt at time 32.400051
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.866     975   1532088   3290664   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      32.600 0.05911 0.15829 0.21739 0.72811 0.00012 0.00033   0.215
+
+	data output to file treecode_fileout.txt at time 32.600052
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.863     991   1509106   3337415   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      32.800 0.05903 0.17012 0.22915 0.74240 0.00012 0.00034   0.217
+
+	data output to file treecode_fileout.txt at time 32.800053
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.890    1007   1560671   3375088   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      33.000 0.05891 0.18371 0.24262 0.75719 0.00012 0.00035   0.218
+
+	data output to file treecode_fileout.txt at time 33.000053
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.884    1015   1553063   3376107   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      33.200 0.05881 0.19948 0.25830 0.77230 0.00012 0.00036   0.219
+
+	data output to file treecode_fileout.txt at time 33.200054
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.905    1004   1628688   3397577   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      33.400 0.05871 0.21812 0.27682 0.78792 0.00012 0.00036   0.221
+
+	data output to file treecode_fileout.txt at time 33.400055
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.893    1080   1628244   3514158   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      33.600 0.05856 0.24058 0.29913 0.80425 0.00012 0.00037   0.222
+
+	data output to file treecode_fileout.txt at time 33.600056
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.912    1117   1733799   3573912   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      33.800 0.05841 0.26823 0.32664 0.82118 0.00013 0.00037   0.224
+
+	data output to file treecode_fileout.txt at time 33.800056
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.949    1184   1851722   3664420   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      34.000 0.05819 0.30264 0.36083 0.83874 0.00015 0.00038   0.225
+
+	data output to file treecode_fileout.txt at time 34.000057
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.952    1194   1947333   3753921   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      34.200 0.05810 0.34533 0.40343 0.85598 0.00018 0.00038   0.227
+
+	data output to file treecode_fileout.txt at time 34.200058
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.943    1141   1916927   3858094   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      34.400 0.05760 0.39907 0.45667 0.87387 0.00020 0.00039   0.228
+
+	data output to file treecode_fileout.txt at time 34.400059
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.985    1127   2043698   3879032   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      34.600 0.05618 0.47034 0.52651 0.89330 0.00024 0.00043   0.230
+
+	data output to file treecode_fileout.txt at time 34.600060
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   3.014    1098   2031005   4078167   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      34.800 0.05333 0.57573 0.62906 0.91522 0.00031 0.00046   0.231
+
+	data output to file treecode_fileout.txt at time 34.800060
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   3.032    1090   2069276   4323964   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      35.000 0.04844 0.75409 0.80252 0.93965 0.00041 0.00048   0.233
+
+	data output to file treecode_fileout.txt at time 35.000061
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      14   3.050    1177   2331947   4492215   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      35.200 0.06587 1.02766 1.09353 0.93977 0.00054 0.00048   0.234
+
+	data output to file treecode_fileout.txt at time 35.200062
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.999    1140   2270163   4433059   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      35.400 0.07541 1.17049 1.24591 0.93947 0.00063 0.00047   0.236
+
+	data output to file treecode_fileout.txt at time 35.400063
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   3.043    1058   2124667   4090214   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      35.600 0.04517 1.06835 1.11353 0.95943 0.00070 0.00046   0.237
+
+	data output to file treecode_fileout.txt at time 35.600063
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   3.047     968   1930049   3846498   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      35.800 0.02226 0.87708 0.89934 0.97525 0.00073 0.00044   0.239
+
+	data output to file treecode_fileout.txt at time 35.800064
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   3.021     964   1690592   3649276   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      36.000 0.01929 0.69888 0.71817 0.97314 0.00070 0.00042   0.240
+
+	data output to file treecode_fileout.txt at time 36.000065
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   3.002     964   1431035   3880776   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      36.200 0.01963 0.57622 0.59585 0.96705 0.00068 0.00040   0.242
+
+	data output to file treecode_fileout.txt at time 36.200066
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   3.009     999   1454138   3808780   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      36.400 0.02027 0.49368 0.51395 0.96055 0.00066 0.00038   0.243
+
+	data output to file treecode_fileout.txt at time 36.400066
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.989    1012   1393167   3886716   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      36.600 0.02100 0.43689 0.45789 0.95414 0.00062 0.00036   0.244
+
+	data output to file treecode_fileout.txt at time 36.600067
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.979    1060   1443421   3890471   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      36.800 0.02129 0.39644 0.41773 0.94903 0.00057 0.00034   0.246
+
+	data output to file treecode_fileout.txt at time 36.800068
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.998    1103   1425416   4129222   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      37.000 0.02148 0.36663 0.38810 0.94466 0.00054 0.00033   0.248
+
+	data output to file treecode_fileout.txt at time 37.000069
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   3.002    1119   1399464   4254352   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      37.200 0.02156 0.34422 0.36578 0.94105 0.00050 0.00032   0.249
+
+	data output to file treecode_fileout.txt at time 37.200069
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   3.018    1110   1363871   4332876   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      37.400 0.02157 0.32726 0.34883 0.93818 0.00049 0.00031   0.251
+
+	data output to file treecode_fileout.txt at time 37.400070
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      11   3.004    1194   1430994   4394955   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      37.600 0.02153 0.31446 0.33600 0.93591 0.00050 0.00031   0.252
+
+	data output to file treecode_fileout.txt at time 37.600071
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.992    1145   1405424   4382291   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      37.800 0.02157 0.30512 0.32669 0.93397 0.00051 0.00031   0.253
+
+	data output to file treecode_fileout.txt at time 37.800072
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   3.000    1197   1543998   4431795   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      38.000 0.02148 0.29883 0.32032 0.93294 0.00049 0.00031   0.255
+
+	data output to file treecode_fileout.txt at time 38.000072
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.992    1236   1500686   4549590   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      38.200 0.02147 0.29524 0.31671 0.93222 0.00047 0.00031   0.256
+
+	data output to file treecode_fileout.txt at time 38.200073
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.983    1258   1512920   4621819   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      38.400 0.02145 0.29419 0.31564 0.93206 0.00046 0.00032   0.258
+
+	data output to file treecode_fileout.txt at time 38.400074
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.964    1307   1573466   4759144   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      38.600 0.02142 0.29573 0.31715 0.93247 0.00045 0.00032   0.259
+
+	data output to file treecode_fileout.txt at time 38.600075
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.976    1346   1575745   4951596   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      38.800 0.02145 0.29970 0.32116 0.93320 0.00045 0.00031   0.261
+
+	data output to file treecode_fileout.txt at time 38.800076
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.978    1364   1577668   5080248   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      39.000 0.02149 0.30561 0.32710 0.93430 0.00044 0.00031   0.263
+
+	data output to file treecode_fileout.txt at time 39.000076
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.996    1368   1666001   5103707   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      39.200 0.02163 0.31237 0.33400 0.93523 0.00042 0.00031   0.264
+
+	data output to file treecode_fileout.txt at time 39.200077
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.992    1440   1810569   5140710   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      39.400 0.02172 0.31889 0.34061 0.93623 0.00041 0.00030   0.266
+
+	data output to file treecode_fileout.txt at time 39.400078
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.956    1439   1816365   5173818   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      39.600 0.02173 0.32486 0.34660 0.93730 0.00041 0.00030   0.268
+
+	data output to file treecode_fileout.txt at time 39.600079
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      13   2.982    1452   1864964   5227588   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      39.800 0.02169 0.33013 0.35182 0.93834 0.00041 0.00031   0.269
+
+	data output to file treecode_fileout.txt at time 39.800079
+
+	   rsize  tdepth   ftree  actmax    nbbtot    nbctot   CPUfc
+	    32.0      12   2.949    1445   1728033   5285827   0.001
+
+        time   |T+U|       T      -U    -T/U  |Vcom|  |Jtot|  CPUtot
+      40.000 0.02163 0.33400 0.35563 0.93918 0.00041 0.00031   0.271
+
+	data output to file treecode_fileout.txt at time 40.000080
